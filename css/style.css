@@ -46,7 +46,7 @@ p {
     font-family: 'Montserrat', sans-serif;
     color: var(--darkGrayishBlue);
     line-height: 2.5ch;
-    padding: 10px 0;
+    padding: 1.5rem 0;
 }
 
 .container {
