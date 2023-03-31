@@ -97,7 +97,6 @@ p {
 }
 
 .btn {
-    background: url(images/icon-cart.svg) no-repeat;
     background-color: var(--darkCian);
     color: var(--white);
     display: flex;
