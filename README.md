@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ana-marz/Product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://ana-marz.github.io/Product-preview-card-component/)
+- Solution URL: [Github repository](https://github.com/ana-marz/Product-preview-card-component)
+- Live Site URL: [ana-marz.github.io/Product-preview-card-component](https://ana-marz.github.io/Product-preview-card-component/)
 
 ### Built with
 
